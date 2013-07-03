@@ -213,7 +213,7 @@ enum {
 	sprite.position = ccp( fingerLocation.x,fingerLocation.y);
 	
     currentSprite = sprite;
-    
+    // comment fo github testing.
     
 	// Define the dynamic body.
 	//Set up a 1m squared box in the physics world
