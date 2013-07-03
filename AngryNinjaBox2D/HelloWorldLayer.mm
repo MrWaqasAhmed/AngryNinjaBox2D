@@ -205,6 +205,7 @@ enum {
 
 -(void) addNewSpriteAtPosition:(CGPoint)fingerLocation
 {
+    // changes in the new code.
     
     CCSprite *sprite = [CCSprite spriteWithFile:@"ninja.png"];
 	[self addChild:sprite ];
